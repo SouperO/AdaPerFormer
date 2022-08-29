@@ -1,7 +1,0 @@
-torch>=1.11
-h5py
-tqdm
-PyYAML
-numpy
-tensorboard
-joblib
